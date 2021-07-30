@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📖 - I've been studying front end development at Kenzie Academy Brasil finishing the first quarter which are focused on HTML-CSS-JS
+📖 - I've been studying front end development at Kenzie Academy Brasil now i'm finishing  the first quarter which are focused on the fundamentals of these -> HTML-CSS-JS
 
   <div style='display:inline-block'>
   <a href="https://github.com/gustavool1">
