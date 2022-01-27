@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📖 - I've been studying front end development at Kenzie Academy Brasil
+📖 - I've been studying full-stack web development at Kenzie Academy Brasil
 
   <div style='display:inline-block'>
   <a href="https://github.com/gustavool1">
