@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📖 - I've been studying full-stack web development at Kenzie Academy Brasil
+📖 - I'm a full stack software developer at Devnology
 
   <div style='display:inline-block'>
   <a href="https://github.com/gustavool1">
