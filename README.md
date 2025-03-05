@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📖 - I'm a full stack software developer working mainly with flutter and nest
+📖 - I'm a full stack software developer working mainly with flutter, React native and nest
 
   <div style='display:inline-block'>
   <a href="https://github.com/gustavool1">
